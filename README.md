@@ -6,5 +6,5 @@ TWRP
 TWRP
 3.3.1-0 - Beta, untested
 
-Worked on my Alldokube M8, T806K modification. Fully functional, bugs not found.
+Worked on my Alldocube M8, T806K modification. Fully functional, bugs not found.
 
