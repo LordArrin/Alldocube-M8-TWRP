@@ -4,7 +4,7 @@ TWRP
 3.1.1-0 - Stable
 
 TWRP
-3.3.1-0 - Beta, untested
+3.3.1-0 - Almost ready to use
 
 Worked on my Alldocube M8, T806K modification. Fully functional, bugs not found.
 
