@@ -14,14 +14,14 @@
 	</include>
 
 	<resources>
-		<font name="font_l" filename="RobotoCondensed-Regular.ttf" size="54"/>
-		<font name="font_m" filename="RobotoCondensed-Regular.ttf" size="42"/>
-		<font name="font_s" filename="RobotoCondensed-Regular.ttf" size="36"/>
-		<font name="fixed" filename="DroidSansMono.ttf" size="30"/>
+		<font name="font_l" filename="GoogleSans-Regular.ttf" size="54"/>
+		<font name="font_m" filename="GoogleSans-Regular.ttf" size="42"/>
+		<font name="font_s" filename="GoogleSans-Regular.ttf" size="36"/>
+		<font name="fixed" filename="GoogleSans-Regular.ttf" size="30"/>
 
-		<font name="keylabel" filename="RobotoCondensed-Regular.ttf" size="64"/>
-		<font name="keylabel-small" filename="RobotoCondensed-Regular.ttf" size="46"/>
-		<font name="keylabel-longpress" filename="RobotoCondensed-Regular.ttf" size="32"/>
+		<font name="keylabel" filename="GoogleSans-Regular.ttf" size="64"/>
+		<font name="keylabel-small" filename="GoogleSans-Regular.ttf" size="46"/>
+		<font name="keylabel-longpress" filename="GoogleSans-Regular.ttf" size="32"/>
 
 		<image name="logo" filename="logo" retainaspect="1"/>
 		<image name="main_button" filename="main_button"/>

@@ -38,5 +38,5 @@
 /otp					emmc			/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/otp		flags=display="Otp";backup=1;
 
 # Removable storage
-/external_sd            auto            /dev/block/mmcblk1p1    /dev/block/mmcblk1                 flags=display="Micro SDcard";backup=0;wipeingui;storage;removable;settingsstorage;
+/external_sd            auto            /dev/block/mmcblk1p1    /dev/block/mmcblk1                 flags=display="MicroSD";backup=0;wipeingui;storage;removable;settingsstorage;
 /usb-otg                auto            /dev/block/sda1   /dev/block/sda                           flags=display="USB-OTG";backup=0;wipeingui;storage;removable

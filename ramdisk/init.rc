@@ -22,8 +22,9 @@ service set_permissive /sbin/permissive.sh
     seclabel u:r:recovery:s0
 
 on init
-    export PATH /sbin:/system/bin
-    export LD_LIBRARY_PATH /sbin
+    export PATH /sbin:/system/bin:/usr/bin
+    export LD_LIBRARY_PATH /sbin:/usr/lib64:/usr/lib:/sbin/lib64:/sbin/lib
+    export SHELL /sbin/sh
 
     export ANDROID_ROOT /system
     export ANDROID_DATA /data
