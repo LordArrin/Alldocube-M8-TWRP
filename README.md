@@ -4,5 +4,15 @@
 
 3.3.1-0 - Ready to use, Android 8-11
 
-Worked on my Alldocube M8, T806K modification. Fully functional, bugs not found.
+Tested on my Alldocube M8, T806K modification. 
 
+Fully functional:
+- Backup/restore
+- Flash any zip/img you want
+- Tap-to-wake
+- Mount/umount partitions
+- ext2/3/4/fat/exfat (f2fs removed due to incompatibility)
+- Google Sans
+- Format, resize and repair partitions
+
+All work, seriously. Flash and use!
