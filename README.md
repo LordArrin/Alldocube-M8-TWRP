@@ -1,3 +1,5 @@
+# Device was sold, work was stopped. Goodbye)
+
 <img src="https://github.com/LordArrin/different_trash/blob/main/c08793c7ea7cc78408ad1be70359f16a5e4cbe94%20(1)-lines-scale-0_50x-gigapixel.png"/>   
 
 # TWRP for Alldocube M8
